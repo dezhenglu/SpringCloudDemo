@@ -1,1 +1,5 @@
 *.java linguist-language=java
+*.iml linguist-language=java
+*.cmd linguist-language=java
+*.txt linguist-language=java
+*.xml linguist-language=java
