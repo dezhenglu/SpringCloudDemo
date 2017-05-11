@@ -22,6 +22,9 @@ java -jar hello-0.0.1-SNAPSHOT.jar --server.port=8081 -Xmx256m -Xms256m
 java -jar hello-0.0.1-SNAPSHOT.jar --server.port=8082 -Xmx256m -Xms256m  
 
 - 服务消费者   
-java -jar ribbon-consumer-0.0.1-SNAPSHOT.jar  
+java -jar ribbon-consumer-0.0.1-SNAPSHOT.jar   
+
+#### Maven 构建命令   
+mvn clean package
 
 
