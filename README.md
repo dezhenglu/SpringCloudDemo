@@ -25,6 +25,9 @@ java -jar hello-0.0.1-SNAPSHOT.jar --server.port=8082 -Xmx256m -Xms256m
 java -jar ribbon-consumer-0.0.1-SNAPSHOT.jar   
 
 #### Maven 构建命令   
-mvn clean package
+mvn clean package   
+
+![](https://github.com/dezhenglu/SpringCloudDemo/blob/master/screenshots/QQ图片20170511160303.png)
+
 
 

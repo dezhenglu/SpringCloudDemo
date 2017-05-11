@@ -3,3 +3,10 @@ $ git add .
 $ git commit -m "first commit"
 $ git remote add origin https://github.com/dezhenglu/SpringCloudDemo.git
 $ git push -u origin master
+
+
+SpringCloudDemo/screenshots/QQÍ¼Æ¬20170511160303.png
+SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160339.png
+SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160423.png
+SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160435.png
+SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160445.png
