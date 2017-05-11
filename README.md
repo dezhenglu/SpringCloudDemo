@@ -13,7 +13,7 @@
 
 
 #### 测试
-- 服务注册中心;
+- 服务注册中心  
 java -jar eureka-server-demo-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer1  
 java -jar eureka-server-demo-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer2  
 
