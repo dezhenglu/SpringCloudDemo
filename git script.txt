@@ -5,8 +5,8 @@ $ git remote add origin https://github.com/dezhenglu/SpringCloudDemo.git
 $ git push -u origin master
 
 
-SpringCloudDemo/screenshots/QQÍ¼Æ¬20170511160303.png
-SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160339.png
-SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160423.png
-SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160435.png
-SpringCloudDemo/screenshots/QQ½ØÍ¼20170511160445.png
+https://github.com/dezhenglu/SpringCloudDemo/blob/master/screenshots/QQÍ¼Æ¬20170511160303.png
+https://github.com/dezhenglu/SpringCloudDemo/blob/master/screenshots/QQ½ØÍ¼20170511160339.png
+https://github.com/dezhenglu/SpringCloudDemo/blob/master/screenshots/QQ½ØÍ¼20170511160423.png
+https://github.com/dezhenglu/SpringCloudDemo/blob/master/screenshots/QQ½ØÍ¼20170511160435.png
+https://github.com/dezhenglu/SpringCloudDemo/blob/master/screenshots/QQ½ØÍ¼20170511160445.png
