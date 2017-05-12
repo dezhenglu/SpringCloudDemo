@@ -18,6 +18,6 @@ public class Consumer {
     @RequestMapping(value = "/ribbon-consumer", method = RequestMethod.GET)
     public String helloConsumer(){
         return restTemplate.
-                getForEntity("http://HELLO-SERVICE:1111/hello",String.class).getBody();
+                getForEntity("http://HELLO-SERVICE/hello",String.class).getBody();
     }
 }

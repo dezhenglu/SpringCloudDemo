@@ -12,7 +12,7 @@
 - java version "1.8.0_91"
 
 
-#### 测试
+#### 测试脚本
 - 服务注册中心  
 java -jar eureka-server-demo-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer1  
 ![](https://github.com/dezhenglu/SpringCloudDemo/blob/master/screenshots/QQ图片20170511160303.png)   
@@ -31,6 +31,12 @@ java -jar ribbon-consumer-0.0.1-SNAPSHOT.jar
 
 #### Maven 构建命令   
 mvn clean package   
+
+#### 演示地址   
+- 服务注册中心   
+http://45.62.113.104:1111/   
+http://45.62.113.104:1112/    
+- 服务提供者,消费者同上  
 
 
 
