@@ -33,10 +33,8 @@ java -jar ribbon-consumer-0.0.1-SNAPSHOT.jar
 mvn clean package   
 
 #### 演示地址   
-- 服务注册中心   
-http://45.62.113.104:1111/   
-http://45.62.113.104:1112/    
-- 服务提供者,消费者同上  
+http://45.62.113.104.16clouds.com:9000/ribbon-consumer
+
 
 
 
